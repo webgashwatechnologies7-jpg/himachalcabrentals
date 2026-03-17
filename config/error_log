@@ -1,0 +1,52 @@
+[23-Jun-2025 09:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/app.php on line 18
+[23-Jun-2025 09:19:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/broadcasting.php on line 18
+[23-Jun-2025 09:19:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/cache.php on line 18
+[23-Jun-2025 09:19:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/database.php on line 18
+[23-Jun-2025 09:19:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/filesystems.php on line 16
+[23-Jun-2025 09:19:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/mail.php on line 16
+[23-Jun-2025 09:19:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/queue.php on line 16
+[23-Jun-2025 09:19:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/services.php on line 18
+[23-Jun-2025 09:19:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/session.php on line 21
+[23-Jun-2025 09:19:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/view.php on line 17
+[31-Jan-2026 20:17:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/mail.php on line 16
+[31-Jan-2026 20:17:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/services.php on line 18
+[31-Jan-2026 20:17:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/esm23wg913j4/public_html/himachalcabrentals.com/config/database.php on line 18

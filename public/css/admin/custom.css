@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+/** {*/
+/*    font-family: 'Montserrat', sans-serif;*/
+/*}*/
+
+.widget-v2.widget-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.widget-v2 {
+    position: relative;
+    background-color: #fff;
+    padding: 20px;
+    padding: 0;
+    border-radius: 3px;
+    border: 0;
+    box-shadow: 0 2px 4px rgba(51, 51, 51, 0.15);
+    min-height: 150px;
+    background-size: contain;
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+
+.widget-v2 .widget-header {
+    padding: 20px 20px 0;
+}
+
+.mt-24 {
+    margin-top: 24px !important;
+}
+
+.widget-v2 .widget-counter {
+    font-size: 38px;
+    padding: 0 20px;
+    font-weight: 300;
+}
+
+.widget-v2 .widget-footer {
+    font-size: 14px;
+    font-weight: 400;
+    color: #999;
+    padding: 0 20px 20px;
+}
+
+.widget-v2 .widget-header h6 {
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    font-size: 1rem;
+    color: #333232;
+}
+
+.widget-large-icon .icon-wrapper {
+    display: block;
+    width: 70px;
+    height: 70px;
+    background: red;
+    border-radius: 50%;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    right: 30px;
+    bottom: 0;
+    margin: auto;
+}
+
+.bg-admin-theme {
+    color: #fff !important;
+    background-color: #ff4838 !important;
+}
+
+.widget-large-icon .icon-wrapper i, .widget-large-icon .icon-wrapper span {
+    font-size: 30px;
+    color: #fff;
+    margin-top: 16px;
+}
+
+.counter {
+    color: #000;
+    font-weight: 500;
+}
+
+.navbar-top {
+    background: rgba(245, 90, 7, 0.58) !important;
+}
+
+.arrow {
+    font-weight: 400;
+}
+
+.app-footer .site-footer-right {
+    font-weight: 500;
+}
+
+.settings .tab-content {
+    margin-right: 20px;
+}
+
+.settings > ul > li.active > a {
+    font-size: 16px;
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.control-label {
+    font-weight: bold !important;
+}
+
+.hamburger-inner, .hamburger-inner::before, .hamburger-inner::after{
+    background: #000 !important;
+}
+
+
