@@ -1,7 +1,7 @@
 <div class="footer-area mt-110">
     <div class="footer-main-wrapper">
         <div class="footer-vactor">
-            <img src="{{asset('public/images/banner/footer-bg.png')}}" alt>
+            <img src="{{asset('images/banner/footer-bg.png')}}" alt>
         </div>
         <div class="container">
             <div class="row justify-content-center g-4 pb-5">
@@ -77,3 +77,5 @@
         </div>
     </div>
 </div>
+
+

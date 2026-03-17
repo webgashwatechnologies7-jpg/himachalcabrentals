@@ -18,7 +18,7 @@
                 <h5 class="modal-title" id="holiday-plan-heading">Holiday Planner</h5>
                 <button type="button" class="btn-close" onclick="closeHolidayPlanner()"></button>
             </div>
-            <div class="modal-body bg-image" style="background: url('{{asset('public/images/shape4.png')}}')">
+            <div class="modal-body bg-image" style="background: url('{{asset('images/shape4.png')}}')">
                 <form action="javascript:void(0)" id="submit_plan_form" method="post">
                     <div class="row">
                         <x-honeypot/>
@@ -263,3 +263,5 @@
         }
     </script>
 @endpush
+
+

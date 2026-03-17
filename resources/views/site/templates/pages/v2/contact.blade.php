@@ -14,7 +14,7 @@
             <div class="row align-items-center justify-content-lg-center gy-5">
                 <div class="col-lg-6">
                     <div class="contatc-intro-figure">
-                        <img src="{{asset('public/images/banner/contact-bg.png')}}" alt class="img-fluid">
+                        <img src="{{asset('images/banner/contact-bg.png')}}" alt class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-5">
@@ -166,3 +166,5 @@
         </script>
     @endpush
 </x-site-layout>
+
+

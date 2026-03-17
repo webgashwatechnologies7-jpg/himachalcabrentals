@@ -1,7 +1,7 @@
 <x-site-layout>
     <x-site.breadcrumb :title="$title"/>
     <section class="about-us pt-6"
-             style="background-image:url({{asset('public/images/background_pattern.png')}}); background-position:bottom right;">
+             style="background-image:url({{asset('images/background_pattern.png')}}); background-position:bottom right;">
         <div class="container">
             <div class="about-image-box">
                 <div class="row d-flex align-items-center justify-content-between">
@@ -25,3 +25,5 @@
     </section>
 {{--    <x-site.home.feature/>--}}
 </x-site-layout>
+
+

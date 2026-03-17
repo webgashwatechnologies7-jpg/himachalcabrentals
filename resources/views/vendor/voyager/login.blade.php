@@ -6,7 +6,7 @@
             <?php $admin_logo_img = Voyager::setting('admin.icon_image', ''); ?>
             @if($admin_logo_img == '')
                 <div class="text-center mb-2">
-                    <img src="{{asset('public/images/admin/logo-sm.png')}}" height="80"/>
+                    <img src="{{asset('images/admin/logo-sm.png')}}" height="80"/>
                 </div>
             @else
                 <div class="text-center mb-2">
@@ -63,3 +63,5 @@
         </div>
     </div>
 @endsection
+
+

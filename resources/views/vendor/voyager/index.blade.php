@@ -23,3 +23,5 @@
         $('.counter').counterUp();
     </script>
 @stop
+
+

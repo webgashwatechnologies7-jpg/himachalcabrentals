@@ -107,7 +107,7 @@
                                 <div class="col">
                                     <div class="pd-single-info">
                                         <div class="info-icon">
-                                            <img src="{{asset('public/images/icons/pd1.svg')}}" alt="time">
+                                            <img src="{{asset('images/icons/pd1.svg')}}" alt="time">
                                         </div>
                                         <div class="info">
                                             <h6>Duration</h6>
@@ -201,3 +201,5 @@
         </div>
     </div>
 </x-site-layout>
+
+

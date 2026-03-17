@@ -6,7 +6,7 @@
     </style>
 @endpush
 <div class="form-main">
-    <div class="section-shape top-0" style="background-image: url({{asset('public/images/shape-pat.png')}});"></div>
+    <div class="section-shape top-0" style="background-image: url({{asset('images/shape-pat.png')}});"></div>
     <div class="container">
         <div class="row align-items-center form-content rounded position-relative ms-5 me-5">
             <div class="col-lg-2 p-0">
@@ -187,3 +187,5 @@
         }
     </script>
 @endpush
+
+

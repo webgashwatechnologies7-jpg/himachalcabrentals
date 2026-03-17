@@ -102,7 +102,7 @@ function get_places_covered($places)
 
 function get_package_image($url)
 {
-    $image = asset('public/images/package/default.jpg');
+    $image = asset('images/package/default.jpg');
     if (!empty($url)) {
         $image = \TCG\Voyager\Facades\Voyager::image($url);
     }
@@ -111,7 +111,7 @@ function get_package_image($url)
 
 function get_cab_image($url)
 {
-    $image = asset('public/images/cabs/default.jpg');
+    $image = asset('images/cabs/default.jpg');
     if (!empty($url)) {
         $image = \TCG\Voyager\Facades\Voyager::image($url);
     }

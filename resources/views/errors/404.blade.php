@@ -6,7 +6,7 @@
                 <div class="col-lg-8">
                     <div class="error-content text-center">
                         <div class="error-vactor text-center">
-                            <img src="{{asset('public/images/shapes/error-vactor.png')}}" alt="404" class="img-fluid">
+                            <img src="{{asset('images/shapes/error-vactor.png')}}" alt="404" class="img-fluid">
                         </div>
                         <div class="error-text">
                             <h2>Oops! Page not found</h2>
@@ -21,3 +21,5 @@
         </div>
     </div>
 </x-site-layout>
+
+

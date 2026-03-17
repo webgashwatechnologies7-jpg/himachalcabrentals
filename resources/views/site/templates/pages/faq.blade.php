@@ -68,6 +68,8 @@
         </div>
     </section>
     @push('scripts')
-        <script defer src="{{asset('public/js/custom-accordian.js')}}"></script>
+        <script defer src="{{asset('js/custom-accordian.js')}}"></script>
     @endpush
 </x-site-layout>
+
+

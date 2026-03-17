@@ -1,5 +1,5 @@
 <div class="widget-v2 widget-flex"
-     style="background-image: url({{asset('public/images/admin/wave-bg.png')}});">
+     style="background-image: url({{asset('images/admin/wave-bg.png')}});">
     <div class="widget-header">
         <h6 class="widget-label">{!! $title !!}</h6>
         <div class="widget-large-icon">
@@ -15,3 +15,5 @@
         <span><a href="{{ $button['link'] }}">View All</a> <b>&#10132;</b> </span>
     </div>
 </div>
+
+
